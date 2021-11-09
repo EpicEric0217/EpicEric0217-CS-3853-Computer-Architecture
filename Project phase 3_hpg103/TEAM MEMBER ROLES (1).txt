@@ -1,0 +1,15 @@
+Eric Samuel Huddleston hpg103
+	Section 002
+	10/20/2020	
+	Developed the reasonings for why the j Loop is coded in specified
+	hexadecimal and basic format.
+
+Jose Carlos Gomez-Vazquez brs849
+	Section 002
+	10/20/2020
+	Researched how the j-loop works into the program counter.
+
+Marcus Toudouze gdp629
+	Section 002
+	10/20/2020
+	Figured out how the program counter is incermeneted.
